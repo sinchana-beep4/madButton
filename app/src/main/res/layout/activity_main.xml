@@ -26,7 +26,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:fontFamily="cursive"
+        android:fontFamily="@font/cute_meow"
         android:text="@string/cat_cafe"
         android:textColor="#003705"
         android:textSize="45sp"

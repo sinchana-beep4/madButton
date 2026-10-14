@@ -24,4 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "madButton"
 include(":app")
- 
+include(":fontlibrary")
